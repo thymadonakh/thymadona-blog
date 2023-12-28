@@ -1,0 +1,5 @@
+baseURL = 'thymadona.org'
+languageCode = 'en-us'
+title = 'Thy Madona Blog'
+
+theme = 'ananke'
